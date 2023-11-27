@@ -1,0 +1,117 @@
+﻿@using BanSach.Models;
+@using PagedList.Mvc;
+
+@model PagedList.PagedList<Sach>
+<link href="~/Content/TrangChuCss.css" rel="stylesheet" />
+
+@{
+    Layout = "~/Views/Layout/IndexLayout.cshtml";
+    ViewBag.Title = "Menu";
+}
+
+<style>
+    .MenuTrang {
+        display: inline;
+        list-style: none;
+    }
+    /* Màu mặc định */
+    button.cart,
+    button.heart,
+    button.fa-eye {
+        background: none;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        font-size: 24px;
+        color: black;
+    }
+
+        /* Màu khi hover */
+        button.cart:hover,
+        button.heart:hover,
+        button.fa-eye:hover {
+            color: #bac34e; /* Đổi màu thành #bac34e khi hover */
+        }
+</style>
+<div class="headingmenu" style="padding-bottom:25rem;">
+    <h1 style="color:black;margin-top:2rem;">Sản Phẩm</h1>
+    <p><a href="/Home/Index">home >></a> </p>
+</div>
+
+
+<section class="products" id="products">
+    <div class="heading">
+        <h1 style="font-size:18pt;"><b>Collection</b></h1>
+        
+    </div>
+
+    <div class="box-container">
+        @{ int i = 0;}
+        @foreach (var item in Model)
+        {
+            i++;
+
+            <div class="box">
+                <div class="icons">
+                    @using (Html.BeginForm("ThemGioHang", "GioHang"))
+                    {
+                        @Html.Hidden("iMaSach", item.MaSach)
+                        @Html.Hidden("strURL", Request.Url.ToString())
+                        <button type="submit" class="cart">
+                            <i class="fa-solid fa-cart-shopping"></i>
+                        </button>
+
+                    }
+                    <button type="submit" class="cart">
+                        <i class="fa-solid fa-heart"></i>
+                    </button>
+
+                    <button type="submit" class="cart" onclick="redirectToChiTiet('@Url.Action("XemChiTiet", "Sach", new { MaSach = item.MaSach })')">
+                        <i class="fa-solid fa-eye"></i>
+                    </button>
+                   
+                </div>
+                <div class="image">
+                    <a href="@Url.Action("XemChiTiet", "Sach", new {@MaSach=item.MaSach})"> <div id="AnhBia"><img src="@Url.Content("~/HinhAnhSP/"+item.AnhBia)" width="200" height="150"></div></a>
+                </div>
+                <div class="content" style="padding: 1.5rem;">
+                    <h3 style="font-size: 1.5rem; color: black;">@item.TenGiay</h3>
+                    <div class="price" style="font-size: 1.5rem; color: black; padding: 1rem 0;">@string.Format("{0:0,0}", item.GiaBan) VNĐ</div>
+                   
+                </div>
+
+            </div>
+
+            if (i % 8 == 0)
+            {
+                <div style="clear:both"></div>
+            }
+        }
+
+    </div>
+    <div class="MenuTrang">
+        <br />
+        <br />
+        <div class="Trang" style="display:inline; font-size:13pt;"> Trang @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) / @Model.PageCount</div>
+
+        @Html.PagedListPager(Model, page => Url.Action("Menu", new { page = page }), new PagedListRenderOptions { UlElementClasses = new[] { "horizontal-pagination" } })
+
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    function redirectToChiTiet(url) {
+        window.location.href = url;
+    }
+</script>

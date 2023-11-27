@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Layout/IndexLayout.cshtml";
+}
+
+@Html.Partial("_Slide")
+<section class="categories" id="categories">
+    <div class="heading">
+        <h1 style="font-size:18pt">SẢN PHẨM NỔI BẬT</h1>
+        
+    </div>
+</section>
+
+
+
+<section class="banner-container">
+
+    <div class="banner">
+        <img src="~/Content/img/converse.PNG" alt=""/>
+            <div class="content">
+                
+                
+                <br />
+                <a href="@Url.Action("ThitTheoChuDe", new {MaChuDe = 1})" class="btnbanner">chi tiết</a>
+            </div>
+    </div>
+
+
+    <div class="banner">
+        <img src="~/Content/img/Vans.PNG"  alt=""/>
+        <div class="content">
+            
+            
+            <br />
+            <a href="@Url.Action("ThitTheoChuDe", new {MaChuDe = 2})" class="btnbanner">chi tiết</a>
+        </div>
+    </div>
+
+    <div class="banner">
+        <img src="~/Content/img/palladium.PNG" alt=""/>
+        <div class="content">
+            
+            
+            <br />
+            <a href="@Url.Action("ThitTheoChuDe", new {MaChuDe = 3})" class="btnbanner">chi tiết</a>
+        </div>
+    </div>
+
+</section>

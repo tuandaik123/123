@@ -1,0 +1,174 @@
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\BanSach.dll.config
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\BanSach.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\BanSach.pdb
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csc.exe
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csc.exe.config
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csc.rsp
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csi.exe
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csi.exe.config
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\csi.rsp
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.AppContext.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Console.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.IO.Compression.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Net.Http.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.ValueTuple.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\vbc.exe
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\vbc.exe.config
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\vbc.rsp
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Antlr3.Runtime.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Newtonsoft.Json.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Helpers.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Mvc.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Optimization.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Razor.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.Razor.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\WebGrease.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Helpers.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Mvc.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Optimization.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.Razor.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\System.Web.WebPages.Razor.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Newtonsoft.Json.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Antlr3.Runtime.pdb
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\BanSach\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\BanSach\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+C:\Users\hoang\source\repos\BanSach\BanSach\obj\Debug\BanSach.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\obj\Debug\BanSach.pdb
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\EntityFramework.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\EntityFramework.SqlServer.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\EntityFramework.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\EntityFramework.SqlServer.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\PagedList.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\PagedList.Mvc.dll
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\PagedList.xml
+C:\Users\hoang\source\repos\BanSach\BanSach\bin\PagedList.Mvc.xml
+D:\cf highlands\BanSach\bin\BanSach.dll.config
+D:\cf highlands\BanSach\bin\BanSach.dll
+D:\cf highlands\BanSach\bin\BanSach.pdb
+D:\cf highlands\BanSach\bin\roslyn\csc.exe
+D:\cf highlands\BanSach\bin\roslyn\csc.exe.config
+D:\cf highlands\BanSach\bin\roslyn\csc.rsp
+D:\cf highlands\BanSach\bin\roslyn\csi.exe
+D:\cf highlands\BanSach\bin\roslyn\csi.exe.config
+D:\cf highlands\BanSach\bin\roslyn\csi.rsp
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.Managed.Core.targets
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\cf highlands\BanSach\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\cf highlands\BanSach\bin\roslyn\System.AppContext.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Collections.Immutable.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Console.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Globalization.Calendars.dll
+D:\cf highlands\BanSach\bin\roslyn\System.IO.Compression.dll
+D:\cf highlands\BanSach\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\cf highlands\BanSach\bin\roslyn\System.IO.FileSystem.dll
+D:\cf highlands\BanSach\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Net.Http.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Net.Sockets.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Reflection.Metadata.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\cf highlands\BanSach\bin\roslyn\System.ValueTuple.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Xml.XmlDocument.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Xml.XPath.dll
+D:\cf highlands\BanSach\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\cf highlands\BanSach\bin\roslyn\vbc.exe
+D:\cf highlands\BanSach\bin\roslyn\vbc.exe.config
+D:\cf highlands\BanSach\bin\roslyn\vbc.rsp
+D:\cf highlands\BanSach\bin\roslyn\VBCSCompiler.exe
+D:\cf highlands\BanSach\bin\roslyn\VBCSCompiler.exe.config
+D:\cf highlands\BanSach\bin\Antlr3.Runtime.dll
+D:\cf highlands\BanSach\bin\EntityFramework.dll
+D:\cf highlands\BanSach\bin\EntityFramework.SqlServer.dll
+D:\cf highlands\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\cf highlands\BanSach\bin\Microsoft.Web.Infrastructure.dll
+D:\cf highlands\BanSach\bin\Newtonsoft.Json.dll
+D:\cf highlands\BanSach\bin\PagedList.dll
+D:\cf highlands\BanSach\bin\PagedList.Mvc.dll
+D:\cf highlands\BanSach\bin\System.Web.Helpers.dll
+D:\cf highlands\BanSach\bin\System.Web.Mvc.dll
+D:\cf highlands\BanSach\bin\System.Web.Optimization.dll
+D:\cf highlands\BanSach\bin\System.Web.Razor.dll
+D:\cf highlands\BanSach\bin\System.Web.WebPages.Deployment.dll
+D:\cf highlands\BanSach\bin\System.Web.WebPages.dll
+D:\cf highlands\BanSach\bin\System.Web.WebPages.Razor.dll
+D:\cf highlands\BanSach\bin\WebGrease.dll
+D:\cf highlands\BanSach\bin\EntityFramework.xml
+D:\cf highlands\BanSach\bin\EntityFramework.SqlServer.xml
+D:\cf highlands\BanSach\bin\PagedList.xml
+D:\cf highlands\BanSach\bin\PagedList.Mvc.xml
+D:\cf highlands\BanSach\bin\System.Web.Helpers.xml
+D:\cf highlands\BanSach\bin\System.Web.Mvc.xml
+D:\cf highlands\BanSach\bin\System.Web.Optimization.xml
+D:\cf highlands\BanSach\bin\System.Web.Razor.xml
+D:\cf highlands\BanSach\bin\System.Web.WebPages.xml
+D:\cf highlands\BanSach\bin\System.Web.WebPages.Deployment.xml
+D:\cf highlands\BanSach\bin\System.Web.WebPages.Razor.xml
+D:\cf highlands\BanSach\bin\Newtonsoft.Json.xml
+D:\cf highlands\BanSach\bin\Antlr3.Runtime.pdb
+D:\cf highlands\BanSach\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\cf highlands\BanSach\obj\Debug\BanSach.csproj.AssemblyReference.cache
+D:\cf highlands\BanSach\obj\Debug\BanSach.csproj.CoreCompileInputs.cache
+D:\cf highlands\BanSach\obj\Debug\BanSach.csproj.CopyComplete
+D:\cf highlands\BanSach\obj\Debug\BanSach.dll
+D:\cf highlands\BanSach\obj\Debug\BanSach.pdb

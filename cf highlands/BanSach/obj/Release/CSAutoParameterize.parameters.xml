@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="QuanLyBanThitEntities-Web.config Connection String" description="QuanLyBanThitEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-ODTA635P\SQLEXPRESS01;Initial Catalog=QuanLyBanThit;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\New\ folder\\cf\ highlands\\BanSach\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='QuanLyBanThitEntities']/@connectionString" />
+  </parameter>
+  <parameter name="QuanLyBanThitConnectionString-Web.config Connection String" description="QuanLyBanThitConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-ODTA635P\SQLEXPRESS01;Initial Catalog=QuanLyBanThit;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\New\ folder\\cf\ highlands\\BanSach\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='QuanLyBanThitConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="QuanLyBanThitConnectionString1-Web.config Connection String" description="QuanLyBanThitConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=LAPTOP-ODTA635P\SQLEXPRESS01;Initial Catalog=QuanLyBanThit;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\New\ folder\\cf\ highlands\\BanSach\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='QuanLyBanThitConnectionString1']/@connectionString" />
+  </parameter>
+</parameters>

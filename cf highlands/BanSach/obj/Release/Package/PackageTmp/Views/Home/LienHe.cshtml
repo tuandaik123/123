@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "LienHe";
+    Layout = "~/Views/Layout/IndexLayout.cshtml";
+}
+<div class="headingmenu">
+    <h1>Liên hệ</h1>
+    <p><a href="/Home/Index">home >></a> shop </p>
+</div>
+
+
+<main style="margin-bottom:10rem;">
+
+    <section id="contact-form">
+        <h2 style="font-size:15pt;">Gửi tin nhắn cho chúng tôi</h2>
+        @using (Html.BeginForm("LienHe", "Home", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            <label for="name" style="font-size: 12pt;">Họ và tên:</label>
+            <input type="text" id="name" name="HoTen" style="border-radius: 0.5rem; background-color: #CFCFCF" required>
+            <label for ="email" style="font-size: 12pt;">Email:</label>
+            <input type="email" id="email" name="Email" style="border-radius: 0.5rem; background-color: #CFCFCF" required>
+            <label for="message" style="font-size: 12pt;">Tin nhắn:</label>
+            <textarea id="message" name="TinNhan" style="border-radius: 1rem; background-color: #CFCFCF" required></textarea>
+            <input type="submit" id="GuiButton" class="submit-button" style="font-size: 13pt; border-radius: 1rem; cursor: pointer;" value="Gửi">
+        }
+    </section>
+
+</main>
+
+
